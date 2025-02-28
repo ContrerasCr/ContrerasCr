@@ -7,9 +7,9 @@
 
 
 - 👋 Hi, I’m @ContrerasCr
-- 👀 I’m interested in Data analyst
-- 🌱 I’m currently programing on VBA, Python, SQL and more.
-- 💞️ I’m looking to collaborate on data analyst works
+- 👀 I’m Data Engineer and interested in Data Science
+- 🌱 I’m currently programing on Python, SQL, Airflow and more.
+- 💞️ I’m looking to collaborate on data science works
 - 📫 You can mail me at cr.contreras.brito@gmail.com
 
 
